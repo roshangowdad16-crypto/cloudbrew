@@ -1,0 +1,5 @@
+# Cloudbrew hero build handoff
+
+This starter implements the composition visible in the supplied screenshot: centered navigation, left drink copy and price, three drink choices, amber arch with overlapping cup, beans, clouds, and cream scalloped edge. The white play triangle is treated as a reel-player overlay, not site UI.
+
+Run `npm install` and `npm run dev` with Node 20 or newer. The screenshot is in `assets/reference/hero-frame.png`. The referenced original CLOUDBREW_SPEC.md was missing, so the local spec is a working draft. Drink art is a vector placeholder pending approved photography. Reel motion is not verified because the Instagram URL could not be retrieved.

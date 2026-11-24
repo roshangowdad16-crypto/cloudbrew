@@ -1,0 +1,5 @@
+# Cloudbrew hero spec - working draft
+
+Reconstructed from the attached screenshot; sizes and colors are estimates. Blue full-viewport background, top logo and navigation, copy and price on the left, product selector below, tall orange arch on the right with cup overlapping it, coffee beans, two clouds, and a cream scalloped lower edge. The large white play triangle is an Instagram/video overlay and excluded from the website.
+
+Estimated tokens: sky #50a5dc; cream #fff3df; yellow #ffcf51; arch #f5ad43; espresso #2a1009. Fonts: Fredoka, Figtree, Caveat. The three drink controls change headline, copy, price, colors, and cup illustration. Responsive behavior stacks the composition on smaller screens and hides desktop links. Respect prefers-reduced-motion. The original spec was unavailable; motion and product photography need confirmation from the reel/source assets.
